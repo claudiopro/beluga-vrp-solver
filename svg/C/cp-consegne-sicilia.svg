@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<g transform="translate(0,0)">
+		<g transform="scale(1.000000)">
+			<g transform="translate(0,0)">
+			<title>cp-consegne-sicilia</title>
+			<desc>(null)</desc>
+			<image x="0" y="0" width="600px" height="600px"
+				xlink:href="sicilia.png" />
+<!-- Route #0: 7 11 6 5 18 -->
+<path d="M198 208
+L474 323
+L501 379
+L503 411
+L434 435
+L395 435
+Z" style="fill:none;stroke:#1d95e1;stroke-width:5.000000"/>
+<!-- Route #1: 1 9 13 -->
+<path d="M198 208
+L73 229
+L62 278
+L84 298
+Z" style="fill:none;stroke:#cbd80a;stroke-width:5.000000"/>
+<!-- Route #2: 14 2 12 4 3 -->
+<path d="M198 208
+L166 327
+L244 369
+L348 412
+L347 311
+L314 328
+Z" style="fill:none;stroke:#f3a50f;stroke-width:5.000000"/>
+<!-- Route #3: 10 15 16 8 17 -->
+<path d="M198 208
+L260 238
+L395 368
+L510 243
+L544 182
+L302 227
+Z" style="fill:none;stroke:#df1466;stroke-width:5.000000"/>
+<!-- Node 0 -->
+<circle cx="198" cy="208" r="10.000000" style="fill:red;stroke:black;stroke-width:5.000000" />
+<!-- Node 1 -->
+<circle cx="73" cy="229" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 2 -->
+<circle cx="244" cy="369" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 3 -->
+<circle cx="314" cy="328" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 4 -->
+<circle cx="347" cy="311" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 5 -->
+<circle cx="434" cy="435" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 6 -->
+<circle cx="503" cy="411" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 7 -->
+<circle cx="474" cy="323" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 8 -->
+<circle cx="544" cy="182" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 9 -->
+<circle cx="62" cy="278" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 10 -->
+<circle cx="260" cy="238" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 11 -->
+<circle cx="501" cy="379" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 12 -->
+<circle cx="348" cy="412" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 13 -->
+<circle cx="84" cy="298" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 14 -->
+<circle cx="166" cy="327" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 15 -->
+<circle cx="395" cy="368" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 16 -->
+<circle cx="510" cy="243" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 17 -->
+<circle cx="302" cy="227" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+<!-- Node 18 -->
+<circle cx="395" cy="435" r="10.000000" style="fill:white;stroke:black;stroke-width:5.000000" />
+			</g>
+		</g>
+	</g>
+</svg>

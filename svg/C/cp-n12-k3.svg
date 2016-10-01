@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+		<g transform="translate(24,24)">
+		<g transform="scale(50.000000)">
+			<g transform="translate(0,0)">
+<!-- Route #0: 8 6 3 7 -->
+<path d="M0 1
+L7 3
+L8 5
+L11 7
+L6 7
+Z" style="fill:none;stroke:#009bdc;stroke-width:0.160000"/>
+<!-- Route #1: 2 4 9 1 -->
+<path d="M0 1
+L1 8
+L2 8
+L6 10
+L5 8
+Z" style="fill:none;stroke:#000fe2;stroke-width:0.160000"/>
+<!-- Route #2: 5 11 10 -->
+<path d="M0 1
+L2 2
+L6 1
+L4 0
+Z" style="fill:none;stroke:#e2de52;stroke-width:0.160000"/>
+<!-- Node 0 -->
+<circle cx="0" cy="1" r="0.320000" style="fill:red;stroke:black;stroke-width:0.160000" />
+<!-- Node 1 -->
+<circle cx="5" cy="8" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 2 -->
+<circle cx="1" cy="8" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 3 -->
+<circle cx="11" cy="7" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 4 -->
+<circle cx="2" cy="8" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 5 -->
+<circle cx="2" cy="2" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 6 -->
+<circle cx="8" cy="5" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 7 -->
+<circle cx="6" cy="7" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 8 -->
+<circle cx="7" cy="3" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 9 -->
+<circle cx="6" cy="10" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 10 -->
+<circle cx="4" cy="0" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+<!-- Node 11 -->
+<circle cx="6" cy="1" r="0.320000" style="fill:white;stroke:black;stroke-width:0.160000" />
+			</g>
+		</g>
+	</g>
+</svg>

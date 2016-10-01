@@ -1,0 +1,170 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+	<g transform="translate(10,10)">
+		<g transform="scale(5)">
+<!-- Route #0: 23 -->
+<path d="M75 55
+L81 53
+Z" style="fill:none;stroke:#2fa60d;stroke-width:1"/>
+<!-- Route #1: 13 4 30 2 37 38 -->
+<path d="M75 55
+L95 31
+L81 25
+L83 23
+L77 1
+L67 1
+L77 39
+Z" style="fill:none;stroke:#89ce1f;stroke-width:1"/>
+<!-- Route #2: 19 15 24 16 42 33 8 -->
+<path d="M75 55
+L41 61
+L23 65
+L7 51
+L9 51
+L17 45
+L27 53
+L35 53
+Z" style="fill:none;stroke:#fcbba5;stroke-width:1"/>
+<!-- Route #3: 21 29 31 34 40 1 27 20 41 28 -->
+<path d="M75 55
+L51 95
+L27 97
+L21 93
+L9 91
+L3 89
+L7 75
+L17 81
+L29 81
+L33 87
+L61 69
+Z" style="fill:none;stroke:#fc2f29;stroke-width:1"/>
+<!-- Route #4: 9 17 45 6 43 26 14 -->
+<path d="M75 55
+L77 63
+L73 81
+L97 61
+L93 45
+L91 41
+L91 35
+L87 43
+Z" style="fill:none;stroke:#3f98a7;stroke-width:1"/>
+<!-- Route #5: 5 32 22 10 7 39 36 -->
+<path d="M75 55
+L59 37
+L59 31
+L49 25
+L37 13
+L43 21
+L47 29
+L59 41
+Z" style="fill:none;stroke:#34eea3;stroke-width:1"/>
+<!-- Route #6: 11 12 35 18 25 44 3 -->
+<path d="M75 55
+L37 51
+L27 31
+L11 27
+L3 1
+L21 5
+L23 3
+L51 25
+Z" style="fill:none;stroke:#72e0cb;stroke-width:1"/>
+<!-- Node 0 -->
+<circle cx="75" cy="55" r="2" style="fill:red;stroke:black;stroke-width:1" />
+<!-- Node 1 -->
+<circle cx="7" cy="75" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 2 -->
+<circle cx="77" cy="1" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 3 -->
+<circle cx="51" cy="25" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 4 -->
+<circle cx="81" cy="25" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 5 -->
+<circle cx="59" cy="37" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 6 -->
+<circle cx="93" cy="45" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 7 -->
+<circle cx="43" cy="21" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 8 -->
+<circle cx="35" cy="53" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 9 -->
+<circle cx="77" cy="63" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 10 -->
+<circle cx="37" cy="13" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 11 -->
+<circle cx="37" cy="51" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 12 -->
+<circle cx="27" cy="31" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 13 -->
+<circle cx="95" cy="31" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 14 -->
+<circle cx="87" cy="43" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 15 -->
+<circle cx="23" cy="65" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 16 -->
+<circle cx="9" cy="51" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 17 -->
+<circle cx="73" cy="81" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 18 -->
+<circle cx="3" cy="1" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 19 -->
+<circle cx="41" cy="61" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 20 -->
+<circle cx="29" cy="81" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 21 -->
+<circle cx="51" cy="95" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 22 -->
+<circle cx="49" cy="25" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 23 -->
+<circle cx="81" cy="53" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 24 -->
+<circle cx="7" cy="51" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 25 -->
+<circle cx="21" cy="5" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 26 -->
+<circle cx="91" cy="35" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 27 -->
+<circle cx="17" cy="81" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 28 -->
+<circle cx="61" cy="69" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 29 -->
+<circle cx="27" cy="97" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 30 -->
+<circle cx="83" cy="23" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 31 -->
+<circle cx="21" cy="93" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 32 -->
+<circle cx="59" cy="31" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 33 -->
+<circle cx="27" cy="53" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 34 -->
+<circle cx="9" cy="91" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 35 -->
+<circle cx="11" cy="27" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 36 -->
+<circle cx="59" cy="41" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 37 -->
+<circle cx="67" cy="1" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 38 -->
+<circle cx="77" cy="39" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 39 -->
+<circle cx="47" cy="29" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 40 -->
+<circle cx="3" cy="89" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 41 -->
+<circle cx="33" cy="87" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 42 -->
+<circle cx="17" cy="45" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 43 -->
+<circle cx="91" cy="41" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 44 -->
+<circle cx="23" cy="3" r="2" style="fill:white;stroke:black;stroke-width:1" />
+<!-- Node 45 -->
+<circle cx="97" cy="61" r="2" style="fill:white;stroke:black;stroke-width:1" />
+		</g>
+	</g>
+</svg>

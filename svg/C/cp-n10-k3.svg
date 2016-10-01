@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+		<g transform="translate(24,24)">
+		<g transform="scale(61.000000)">
+			<g transform="translate(0,0)">
+<!-- Route #0: 7 3 4 -->
+<path d="M3 5
+L4 2
+L5 0
+L5 2
+Z" style="fill:none;stroke:#930d53;stroke-width:0.131148"/>
+<!-- Route #1: 5 6 8 -->
+<path d="M3 5
+L5 9
+L8 4
+L4 5
+Z" style="fill:none;stroke:#248564;stroke-width:0.131148"/>
+<!-- Route #2: 1 9 2 -->
+<path d="M3 5
+L1 7
+L0 7
+L2 3
+Z" style="fill:none;stroke:#dd53d6;stroke-width:0.131148"/>
+<!-- Node 0 -->
+<circle cx="3" cy="5" r="0.262295" style="fill:red;stroke:black;stroke-width:0.131148" />
+<!-- Node 1 -->
+<circle cx="1" cy="7" r="0.262295" style="fill:white;stroke:black;stroke-width:0.131148" />
+<!-- Node 2 -->
+<circle cx="2" cy="3" r="0.262295" style="fill:white;stroke:black;stroke-width:0.131148" />
+<!-- Node 3 -->
+<circle cx="5" cy="0" r="0.262295" style="fill:white;stroke:black;stroke-width:0.131148" />
+<!-- Node 4 -->
+<circle cx="5" cy="2" r="0.262295" style="fill:white;stroke:black;stroke-width:0.131148" />
+<!-- Node 5 -->
+<circle cx="5" cy="9" r="0.262295" style="fill:white;stroke:black;stroke-width:0.131148" />
+<!-- Node 6 -->
+<circle cx="8" cy="4" r="0.262295" style="fill:white;stroke:black;stroke-width:0.131148" />
+<!-- Node 7 -->
+<circle cx="4" cy="2" r="0.262295" style="fill:white;stroke:black;stroke-width:0.131148" />
+<!-- Node 8 -->
+<circle cx="4" cy="5" r="0.262295" style="fill:white;stroke:black;stroke-width:0.131148" />
+<!-- Node 9 -->
+<circle cx="0" cy="7" r="0.262295" style="fill:white;stroke:black;stroke-width:0.131148" />
+			</g>
+		</g>
+	</g>
+</svg>

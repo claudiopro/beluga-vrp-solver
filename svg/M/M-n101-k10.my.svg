@@ -1,0 +1,349 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<g transform="translate(20,20)">
+		<g transform="scale(5.000000)">
+			<g transform="translate(0,-5)">
+			<title>M-n101-k10</title>
+			<desc>(null)</desc>
+<!-- Route #0: 10 8 9 6 7 5 3 4 2 75 -->
+<path d="M40 50
+L35 66
+L38 68
+L38 70
+L40 69
+L40 66
+L42 65
+L42 66
+L42 68
+L45 70
+L45 65
+Z" style="fill:none;stroke:#c15d6b;stroke-width:1.400000"/>
+<!-- Route #1: 13 17 18 19 15 16 14 12 11 -->
+<path d="M40 50
+L22 75
+L18 75
+L15 75
+L15 80
+L20 80
+L20 85
+L22 85
+L25 85
+L35 69
+Z" style="fill:none;stroke:#91433c;stroke-width:1.400000"/>
+<!-- Route #2: 21 22 23 26 28 30 29 27 25 24 20 -->
+<path d="M40 50
+L30 52
+L28 52
+L28 55
+L25 55
+L23 55
+L20 55
+L20 50
+L23 52
+L25 52
+L25 50
+L30 50
+Z" style="fill:none;stroke:#19de98;stroke-width:1.400000"/>
+<!-- Route #3: 34 36 39 38 37 35 31 33 32 -->
+<path d="M40 50
+L8 45
+L5 45
+L0 45
+L0 40
+L2 40
+L5 35
+L10 35
+L8 40
+L10 40
+Z" style="fill:none;stroke:#b14867;stroke-width:1.400000"/>
+<!-- Route #4: 43 42 41 40 44 46 45 48 51 50 52 49 47 -->
+<path d="M40 50
+L33 35
+L33 32
+L35 32
+L35 30
+L32 30
+L30 32
+L30 30
+L28 30
+L25 30
+L26 32
+L25 35
+L28 35
+L30 35
+Z" style="fill:none;stroke:#96a726;stroke-width:1.400000"/>
+<!-- Route #5: 57 59 60 58 56 53 54 55 -->
+<path d="M40 50
+L40 15
+L38 15
+L35 5
+L38 5
+L40 5
+L44 5
+L42 10
+L42 15
+Z" style="fill:none;stroke:#9d60e2;stroke-width:1.400000"/>
+<!-- Route #6: 80 79 77 73 70 71 76 78 81 82 -->
+<path d="M40 50
+L85 25
+L87 30
+L88 30
+L92 30
+L95 30
+L95 35
+L90 35
+L88 35
+L85 35
+L75 55
+Z" style="fill:none;stroke:#1e56a9;stroke-width:1.400000"/>
+<!-- Route #7: 67 65 63 62 74 72 61 64 68 66 69 -->
+<path d="M40 50
+L47 40
+L48 40
+L50 40
+L50 35
+L53 35
+L53 30
+L50 30
+L48 30
+L45 30
+L47 35
+L45 35
+Z" style="fill:none;stroke:#72ac4f;stroke-width:1.400000"/>
+<!-- Route #8: 91 89 88 85 84 83 86 87 90 -->
+<path d="M40 50
+L60 60
+L63 58
+L65 60
+L68 60
+L70 58
+L72 55
+L66 55
+L65 55
+L60 55
+Z" style="fill:none;stroke:#cb4b8b;stroke-width:1.400000"/>
+<!-- Route #9: 1 99 100 97 93 92 94 95 96 98 -->
+<path d="M40 50
+L45 68
+L55 80
+L55 85
+L60 85
+L65 85
+L67 85
+L65 82
+L62 80
+L60 80
+L58 75
+Z" style="fill:none;stroke:#923b0c;stroke-width:1.400000"/>
+<!-- Node 0 -->
+<circle cx="40" cy="50" r="1.400000" style="fill:red" />
+<!-- Node 1 -->
+<circle cx="45" cy="68" r="1.400000" style="fill:black" />
+<!-- Node 2 -->
+<circle cx="45" cy="70" r="1.400000" style="fill:black" />
+<!-- Node 3 -->
+<circle cx="42" cy="66" r="1.400000" style="fill:black" />
+<!-- Node 4 -->
+<circle cx="42" cy="68" r="1.400000" style="fill:black" />
+<!-- Node 5 -->
+<circle cx="42" cy="65" r="1.400000" style="fill:black" />
+<!-- Node 6 -->
+<circle cx="40" cy="69" r="1.400000" style="fill:black" />
+<!-- Node 7 -->
+<circle cx="40" cy="66" r="1.400000" style="fill:black" />
+<!-- Node 8 -->
+<circle cx="38" cy="68" r="1.400000" style="fill:black" />
+<!-- Node 9 -->
+<circle cx="38" cy="70" r="1.400000" style="fill:black" />
+<!-- Node 10 -->
+<circle cx="35" cy="66" r="1.400000" style="fill:black" />
+<!-- Node 11 -->
+<circle cx="35" cy="69" r="1.400000" style="fill:black" />
+<!-- Node 12 -->
+<circle cx="25" cy="85" r="1.400000" style="fill:black" />
+<!-- Node 13 -->
+<circle cx="22" cy="75" r="1.400000" style="fill:black" />
+<!-- Node 14 -->
+<circle cx="22" cy="85" r="1.400000" style="fill:black" />
+<!-- Node 15 -->
+<circle cx="20" cy="80" r="1.400000" style="fill:black" />
+<!-- Node 16 -->
+<circle cx="20" cy="85" r="1.400000" style="fill:black" />
+<!-- Node 17 -->
+<circle cx="18" cy="75" r="1.400000" style="fill:black" />
+<!-- Node 18 -->
+<circle cx="15" cy="75" r="1.400000" style="fill:black" />
+<!-- Node 19 -->
+<circle cx="15" cy="80" r="1.400000" style="fill:black" />
+<!-- Node 20 -->
+<circle cx="30" cy="50" r="1.400000" style="fill:black" />
+<!-- Node 21 -->
+<circle cx="30" cy="52" r="1.400000" style="fill:black" />
+<!-- Node 22 -->
+<circle cx="28" cy="52" r="1.400000" style="fill:black" />
+<!-- Node 23 -->
+<circle cx="28" cy="55" r="1.400000" style="fill:black" />
+<!-- Node 24 -->
+<circle cx="25" cy="50" r="1.400000" style="fill:black" />
+<!-- Node 25 -->
+<circle cx="25" cy="52" r="1.400000" style="fill:black" />
+<!-- Node 26 -->
+<circle cx="25" cy="55" r="1.400000" style="fill:black" />
+<!-- Node 27 -->
+<circle cx="23" cy="52" r="1.400000" style="fill:black" />
+<!-- Node 28 -->
+<circle cx="23" cy="55" r="1.400000" style="fill:black" />
+<!-- Node 29 -->
+<circle cx="20" cy="50" r="1.400000" style="fill:black" />
+<!-- Node 30 -->
+<circle cx="20" cy="55" r="1.400000" style="fill:black" />
+<!-- Node 31 -->
+<circle cx="10" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 32 -->
+<circle cx="10" cy="40" r="1.400000" style="fill:black" />
+<!-- Node 33 -->
+<circle cx="8" cy="40" r="1.400000" style="fill:black" />
+<!-- Node 34 -->
+<circle cx="8" cy="45" r="1.400000" style="fill:black" />
+<!-- Node 35 -->
+<circle cx="5" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 36 -->
+<circle cx="5" cy="45" r="1.400000" style="fill:black" />
+<!-- Node 37 -->
+<circle cx="2" cy="40" r="1.400000" style="fill:black" />
+<!-- Node 38 -->
+<circle cx="0" cy="40" r="1.400000" style="fill:black" />
+<!-- Node 39 -->
+<circle cx="0" cy="45" r="1.400000" style="fill:black" />
+<!-- Node 40 -->
+<circle cx="35" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 41 -->
+<circle cx="35" cy="32" r="1.400000" style="fill:black" />
+<!-- Node 42 -->
+<circle cx="33" cy="32" r="1.400000" style="fill:black" />
+<!-- Node 43 -->
+<circle cx="33" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 44 -->
+<circle cx="32" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 45 -->
+<circle cx="30" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 46 -->
+<circle cx="30" cy="32" r="1.400000" style="fill:black" />
+<!-- Node 47 -->
+<circle cx="30" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 48 -->
+<circle cx="28" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 49 -->
+<circle cx="28" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 50 -->
+<circle cx="26" cy="32" r="1.400000" style="fill:black" />
+<!-- Node 51 -->
+<circle cx="25" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 52 -->
+<circle cx="25" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 53 -->
+<circle cx="44" cy="5" r="1.400000" style="fill:black" />
+<!-- Node 54 -->
+<circle cx="42" cy="10" r="1.400000" style="fill:black" />
+<!-- Node 55 -->
+<circle cx="42" cy="15" r="1.400000" style="fill:black" />
+<!-- Node 56 -->
+<circle cx="40" cy="5" r="1.400000" style="fill:black" />
+<!-- Node 57 -->
+<circle cx="40" cy="15" r="1.400000" style="fill:black" />
+<!-- Node 58 -->
+<circle cx="38" cy="5" r="1.400000" style="fill:black" />
+<!-- Node 59 -->
+<circle cx="38" cy="15" r="1.400000" style="fill:black" />
+<!-- Node 60 -->
+<circle cx="35" cy="5" r="1.400000" style="fill:black" />
+<!-- Node 61 -->
+<circle cx="50" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 62 -->
+<circle cx="50" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 63 -->
+<circle cx="50" cy="40" r="1.400000" style="fill:black" />
+<!-- Node 64 -->
+<circle cx="48" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 65 -->
+<circle cx="48" cy="40" r="1.400000" style="fill:black" />
+<!-- Node 66 -->
+<circle cx="47" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 67 -->
+<circle cx="47" cy="40" r="1.400000" style="fill:black" />
+<!-- Node 68 -->
+<circle cx="45" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 69 -->
+<circle cx="45" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 70 -->
+<circle cx="95" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 71 -->
+<circle cx="95" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 72 -->
+<circle cx="53" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 73 -->
+<circle cx="92" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 74 -->
+<circle cx="53" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 75 -->
+<circle cx="45" cy="65" r="1.400000" style="fill:black" />
+<!-- Node 76 -->
+<circle cx="90" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 77 -->
+<circle cx="88" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 78 -->
+<circle cx="88" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 79 -->
+<circle cx="87" cy="30" r="1.400000" style="fill:black" />
+<!-- Node 80 -->
+<circle cx="85" cy="25" r="1.400000" style="fill:black" />
+<!-- Node 81 -->
+<circle cx="85" cy="35" r="1.400000" style="fill:black" />
+<!-- Node 82 -->
+<circle cx="75" cy="55" r="1.400000" style="fill:black" />
+<!-- Node 83 -->
+<circle cx="72" cy="55" r="1.400000" style="fill:black" />
+<!-- Node 84 -->
+<circle cx="70" cy="58" r="1.400000" style="fill:black" />
+<!-- Node 85 -->
+<circle cx="68" cy="60" r="1.400000" style="fill:black" />
+<!-- Node 86 -->
+<circle cx="66" cy="55" r="1.400000" style="fill:black" />
+<!-- Node 87 -->
+<circle cx="65" cy="55" r="1.400000" style="fill:black" />
+<!-- Node 88 -->
+<circle cx="65" cy="60" r="1.400000" style="fill:black" />
+<!-- Node 89 -->
+<circle cx="63" cy="58" r="1.400000" style="fill:black" />
+<!-- Node 90 -->
+<circle cx="60" cy="55" r="1.400000" style="fill:black" />
+<!-- Node 91 -->
+<circle cx="60" cy="60" r="1.400000" style="fill:black" />
+<!-- Node 92 -->
+<circle cx="67" cy="85" r="1.400000" style="fill:black" />
+<!-- Node 93 -->
+<circle cx="65" cy="85" r="1.400000" style="fill:black" />
+<!-- Node 94 -->
+<circle cx="65" cy="82" r="1.400000" style="fill:black" />
+<!-- Node 95 -->
+<circle cx="62" cy="80" r="1.400000" style="fill:black" />
+<!-- Node 96 -->
+<circle cx="60" cy="80" r="1.400000" style="fill:black" />
+<!-- Node 97 -->
+<circle cx="60" cy="85" r="1.400000" style="fill:black" />
+<!-- Node 98 -->
+<circle cx="58" cy="75" r="1.400000" style="fill:black" />
+<!-- Node 99 -->
+<circle cx="55" cy="80" r="1.400000" style="fill:black" />
+<!-- Node 100 -->
+<circle cx="55" cy="85" r="1.400000" style="fill:black" />
+			</g>
+		</g>
+	</g>
+</svg>

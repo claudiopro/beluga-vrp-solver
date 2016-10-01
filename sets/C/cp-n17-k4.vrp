@@ -1,0 +1,46 @@
+NAME : (null)
+COMMENT : (null)
+TYPE : CVRP
+DIMENSION : 17
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 56
+NODE_COORD_SECTION
+ 1   9   8
+ 2  10  12
+ 3  16   9
+ 4  13   9
+ 5  11   7
+ 6   7  10
+ 7  14  15
+ 8   4  11
+ 9   0   5
+10  14   6
+11  10   3
+12  14   9
+13   1  10
+14  12  10
+15  10   4
+16  11  16
+17  10  11
+DEMAND_SECTION
+ 1   0
+ 2  12
+ 3  10
+ 4   5
+ 5   5
+ 6  19
+ 7  23
+ 8  22
+ 9  16
+10  20
+11  18
+12   1
+13   7
+14  23
+15   2
+16   1
+17  21
+DEPOT_SECTION
+ 1
+-1
+EOF
